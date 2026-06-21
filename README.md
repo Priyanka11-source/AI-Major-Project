@@ -1,6 +1,8 @@
 # Cardiovascular Disease (CVD) General Health Prediction - AI Major Project
 
-A comprehensive machine learning and exploratory data analysis project focused on predicting patient general health status based on clinical history, lifestyle behaviors, and biological demographics using a cleaned dataset of 308,854 records.
+**AI Internship Major Project | Elewayte**
+
+A comprehensive machine learning and exploratory data analysis project focused on predicting patient general health status based on clinical history, lifestyle behaviors, and biological demographics using a cleaned dataset of 308,854 records. This repository represents the final Major Project submission for the AI Internship program at **Elewayte**.
 
 ---
 
